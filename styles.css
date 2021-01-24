@@ -1,0 +1,31 @@
+.colors{
+    padding: 10px;
+    margin: 0px auto;
+    text-align: center;
+    display: inline-block;
+}
+.color1{
+    background-color: #1D396D;
+    color: white;
+    width: 200px;
+}
+.color2{
+    background-color:#6A8DD9;
+    color: white;
+    width: 200px;
+}
+.color3{
+    background-color: #4660A8;
+    color: white;
+    width: 200px;
+}
+.color4{
+    background-color: #A2AFCD;
+    color: white;
+    width: 200px;
+}
+.color5{
+    background-color: #D5E3F1;
+    color: white;
+    width: 200px;
+}
